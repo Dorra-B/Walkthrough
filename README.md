@@ -9,6 +9,8 @@ I really recommand this paper especially for beginners.
 PS:
 - The needed commands at each step are written and commented in the provided bash script which can be useful the automate sequences of commands.
 - A complete shell script must be executable to run .You have to use chmod to add the execute permission to the file. 
+ $ chmod a+x walkthrough.sh
+ 
 - If you want to grant script execute permissions only for intended users you can use chown.
 - If you want to invoke the shell script using thename alone, you need to place the script in one of the directories listed in the shell's PATH environmental variable.You can invoke a shell script by entering a path name to the script on the command line.
 - To run the hole script at once ,you use the command
