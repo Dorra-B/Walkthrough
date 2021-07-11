@@ -1,8 +1,8 @@
 # Walkthrough By Dorra Boukari
 
-This is a walkthrough attached to the AWS Whitepaper entitled" Docker On AWS Summary "
+This walkthrough lab is attached to the paper entitled" Docker On AWS Summary " in which I summarized the AWS Whitepaper written by Brandon Chavis and Thomas Jones.
 
-It helps you to create your first cluster. You will create, register and run a task definition, and finally you will deploy a container.
+This lab helps you to create your first cluster. You will create, register and run a task definition, and finally you will deploy a container.
 Here you will launch  NGINX webserver inside an ECS container using an ECS task and a community dockerfile.
 I really recommand this paper especially for beginners.
 
